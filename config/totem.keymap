@@ -28,7 +28,7 @@
         new_behavior: new_behavior {
             compatible = "zmk,behavior-hold-tap";
             label = "NEW_BEHAVIOR";
-            bindings = <&kt>, <&kp>;
+            bindings = <&mt>, <&kp>;
 
             #binding-cells = <2>;
             tapping-term-ms = <200>;
