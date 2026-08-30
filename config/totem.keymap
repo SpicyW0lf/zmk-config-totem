@@ -27,6 +27,7 @@
         thirdLayer {
             bindings = <&mo 3>;
             key-positions = <33 36>;
+            layers = <3>;
         };
     };
 
